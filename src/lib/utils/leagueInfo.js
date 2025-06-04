@@ -23,7 +23,8 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      //"roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "459670303153319936"
       "name": "Steven Anderson",
       "location": "West Lothian", // (optional)
       "bio": "Lorem ipsum...",
