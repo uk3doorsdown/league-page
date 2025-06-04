@@ -25,8 +25,8 @@ export const managers = [
     {
      //"roster": 1,
     "managerID": "459670303153319936",
-    "name": "Steven_Anderson",
-    "location": "", // (optional)
+    "name": "Steven Anderson",
+    "location": "West Lothian", // (optional)
     "bio": "Lorem ipsum...",
     "photo": "/managers/Steven_Anderson.jpg", // Ensure you have images for each manager
     "fantasyStart": null, // (optional)
@@ -47,8 +47,8 @@ export const managers = [
   {
     //"roster": 2,
     "managerID": "459680531118813184",
-    "name": "MikeThorburn",
-    "location": "",
+    "name": "Mike Thorburn",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/MikeThorburn.jpg",
     "fantasyStart": null,
@@ -69,8 +69,8 @@ export const managers = [
   {
     //"roster": 3,
     "managerID": "459798545432571904",
-    "name": "BryanRobertson",
-    "location": "",
+    "name": "Bryan Robertson",
+    "location": "Aberdeen",
     "bio": "Lorem ipsum...",
     "photo": "/managers/BryanRobertson.jpg",
     "fantasyStart": null,
@@ -91,8 +91,8 @@ export const managers = [
   {
     //"roster": 4,
     "managerID": "459807985279954944",
-    "name": "Gary_Stewart",
-    "location": "",
+    "name": "Gary Stewart",
+    "location": "Fife",
     "bio": "Lorem ipsum...",
     "photo": "/managers/Gary_Stewart.jpg",
     "fantasyStart": null,
@@ -113,8 +113,8 @@ export const managers = [
   {
     //"roster": 5,
     "managerID": "459808539628531712",
-    "name": "Alan_Munro",
-    "location": "",
+    "name": "Alan Munro",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/Alan_Munro.jpg",
     "fantasyStart": null,
@@ -135,8 +135,8 @@ export const managers = [
   {
     //"roster": 6,
     "managerID": "460142987100286976",
-    "name": "AndrewDownie",
-    "location": "",
+    "name": "Andrew Downie",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/AndrewDownie.jpg",
     "fantasyStart": null,
@@ -157,8 +157,8 @@ export const managers = [
   {
     //"roster": 7,
     "managerID": "460169498125660160",
-    "name": "AndyThorburn",
-    "location": "",
+    "name": "Andy Thorburn",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/AndyThorburn.jpg",
     "fantasyStart": null,
@@ -179,8 +179,8 @@ export const managers = [
   {
     //"roster": 8,
     "managerID": "460170420323086336",
-    "name": "RobynDownie",
-    "location": "",
+    "name": "Robyn Downie",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/RobynDownie.jpg",
     "fantasyStart": null,
@@ -201,8 +201,8 @@ export const managers = [
   {
     //"roster": 9,
     "managerID": "461317163672662016",
-    "name": "keithgraham117",
-    "location": "",
+    "name": "Keith Graham",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/keithgraham117.jpg",
     "fantasyStart": null,
@@ -223,8 +223,8 @@ export const managers = [
   {
     //"roster": 10,
     "managerID": "461600933038518272",
-    "name": "Telfy",
-    "location": "",
+    "name": "Gergor Telford",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/Telfy.jpg",
     "fantasyStart": null,
@@ -245,8 +245,8 @@ export const managers = [
   {
     //"roster": 11,
     "managerID": "461918180684591104",
-    "name": "ArgoLuke",
-    "location": "",
+    "name": "Luke Manley",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/ArgoLuke.jpg",
     "fantasyStart": null,
@@ -267,8 +267,8 @@ export const managers = [
   {
     //"roster": 12,
     "managerID": "461989970140196864",
-    "name": "RobBreen",
-    "location": "",
+    "name": "Rob Breen",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/RobBreen.jpg",
     "fantasyStart": null,
@@ -289,8 +289,8 @@ export const managers = [
   {
     //"roster": 13,
     "managerID": "462356150449336320",
-    "name": "GregStark",
-    "location": "",
+    "name": "Greg Stark",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/GregStark.jpg",
     "fantasyStart": null,
@@ -311,8 +311,8 @@ export const managers = [
   {
     //"roster": 14,
     "managerID": "462479324063199232",
-    "name": "JagoLoons",
-    "location": "",
+    "name": "Matthew Jago",
+    "location": "New Hampshire USA",
     "bio": "Lorem ipsum...",
     "photo": "/managers/JagoLoons.jpg",
     "fantasyStart": null,
@@ -333,8 +333,8 @@ export const managers = [
   {
     //"roster": 15,
     "managerID": "462637149540315136",
-    "name": "HexRay",
-    "location": "",
+    "name": "Ray Robertson",
+    "location": "Aberdeen",
     "bio": "Lorem ipsum...",
     "photo": "/managers/HexRay.jpg",
     "fantasyStart": null,
@@ -355,8 +355,8 @@ export const managers = [
   {
     //"roster": 16,
     "managerID": "468423064867041280",
-    "name": "GraemeDonald",
-    "location": "",
+    "name": "Graem eDonald",
+    "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/GraemeDonald.jpg",
     "fantasyStart": null,
