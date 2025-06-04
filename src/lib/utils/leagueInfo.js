@@ -84,7 +84,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Bryan Robertson believes championships are won by identifying breakout rookies and managing injuries effectively.",
+    "philosophy": "Bryan believes championships are won by identifying breakout rookies and managing injuries effectively.",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
