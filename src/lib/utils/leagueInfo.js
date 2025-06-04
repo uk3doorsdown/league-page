@@ -355,7 +355,7 @@ export const managers = [
   {
     //"roster": 16,
     "managerID": "468423064867041280",
-    "name": "Graem eDonald",
+    "name": "Graeme Donald",
     "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/GraemeDonald.jpg",
