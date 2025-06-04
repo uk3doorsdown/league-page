@@ -99,8 +99,8 @@ export const managers = [
     "favoriteTeam": "sea",
     "mode": "Win Now",
     "rival": {
-      name: "",
-      link: null,
+      name: "Ray",
+      link: 14,
       image: "/managers/question.png",
     },
     "favoritePlayer": null,
@@ -121,8 +121,8 @@ export const managers = [
     "favoriteTeam": "no",
     "mode": "Win Now",
     "rival": {
-      name: "",
-      link: null,
+      name: "Steven",
+      link: 0,
       image: "/managers/question.png",
     },
     "favoritePlayer": null,
@@ -341,8 +341,8 @@ export const managers = [
     "favoriteTeam": "ne",
     "mode": "Win Now",
     "rival": {
-      name: "",
-      link: null,
+      name: "Gary",
+      link: 3,
       image: "/managers/question.png",
     },
     "favoritePlayer": null,
