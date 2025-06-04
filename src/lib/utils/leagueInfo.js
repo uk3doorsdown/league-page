@@ -33,8 +33,8 @@ export const managers = [
     "favoriteTeam": "tb", // (optional)
     "mode": "Win Now", // (optional)
     "rival": {
-      name: "", // Can be anything
-      link: null,
+      name: "Alan", // Can be anything
+      link: 4,
       image: "/managers/question.png",
     },
     "favoritePlayer": null, // (optional)
