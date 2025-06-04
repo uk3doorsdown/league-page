@@ -40,8 +40,8 @@ export const managers = [
     "favoritePlayer": null, // (optional)
     "valuePosition": "", // (optional)
     "rookieOrVets": "Vets", // (optional)
-    "philosophy": "Your fantasy team's philosophy",
-    "tradingScale": 5, // 1 - 10
+    "philosophy": "Steven Anderson lives on the back of previous successes and understands that history always repeats itself.",
+    "tradingScale": "5", // 1 - 10
     "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', 'Carrier Pigeon'
   },
   {
@@ -84,7 +84,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Bryan Robertson believes championships are won by identifying breakout rookies and managing injuries effectively.",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
@@ -106,7 +106,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Gary plays to annoy and sabotage Ray in any way possible, maybe by even creating a fake Fantasy Pros site",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
@@ -128,7 +128,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Shrewed Managment",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
@@ -150,7 +150,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Andrew will trade you 3 of his worst players for 5 of your best",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
@@ -238,7 +238,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Telfy understands that a players surname can make all the difference",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
@@ -348,7 +348,7 @@ export const managers = [
     "favoritePlayer": null,
     "valuePosition": "",
     "rookieOrVets": "Rookies",
-    "philosophy": "Your fantasy team's philosophy",
+    "philosophy": "Ray knows that Fantasy Pros has the answers somewhere... he just need to find it",
     "tradingScale": 5,
     "preferredContact": "Sleeper",
   },
