@@ -30,7 +30,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/Steven_Anderson.jpg", // Ensure you have images for each manager
     "fantasyStart": null, // (optional)
-    "favoriteTeam": "", // (optional)
+    "favoriteTeam": "tb", // (optional)
     "mode": "Win Now", // (optional)
     "rival": {
       name: "", // Can be anything
@@ -52,7 +52,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/MikeThorburn.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "bal",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -74,7 +74,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/BryanRobertson.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "sf",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -96,7 +96,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/Gary_Stewart.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "sea",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -118,7 +118,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/Alan_Munro.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "no",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -140,7 +140,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/AndrewDownie.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "nyg",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -162,7 +162,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/AndyThorburn.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "phi",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -184,7 +184,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/RobynDownie.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "nyg",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -206,7 +206,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/keithgraham117.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "den",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -228,7 +228,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/Telfy.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "dal",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -250,7 +250,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/ArgoLuke.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "pit",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -272,7 +272,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/RobBreen.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "ne",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -294,7 +294,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/GregStark.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "det",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -316,7 +316,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/JagoLoons.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "ne",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -338,7 +338,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/HexRay.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "ne",
     "mode": "Win Now",
     "rival": {
       name: "",
@@ -360,7 +360,7 @@ export const managers = [
     "bio": "Lorem ipsum...",
     "photo": "/managers/GraemeDonald.jpg",
     "fantasyStart": null,
-    "favoriteTeam": "",
+    "favoriteTeam": "ne",
     "mode": "Win Now",
     "rival": {
       name: "",
