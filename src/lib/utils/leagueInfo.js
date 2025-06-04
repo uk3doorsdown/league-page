@@ -39,7 +39,7 @@ export const managers = [
     },
     "favoritePlayer": null, // (optional)
     "valuePosition": "", // (optional)
-    "rookieOrVets": "Rookies", // (optional)
+    "rookieOrVets": "Vets", // (optional)
     "philosophy": "Your fantasy team's philosophy",
     "tradingScale": 5, // 1 - 10
     "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', 'Carrier Pigeon'
