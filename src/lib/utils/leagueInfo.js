@@ -223,7 +223,7 @@ export const managers = [
   {
     //"roster": 10,
     "managerID": "461600933038518272",
-    "name": "Gergor Telford",
+    "name": "Gregor Telford",
     "location": "Edinburgh",
     "bio": "Lorem ipsum...",
     "photo": "/managers/Telfy.png",
