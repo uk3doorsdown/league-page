@@ -35,12 +35,12 @@ export const managers = [
     "rival": {
       name: "Alan", // Can be anything
       link: 4,
-      image: "/managers/question.png",
+      image: "/managers/resizecom_Alan.png",
     },
     "favoritePlayer": null, // (optional)
     "valuePosition": "", // (optional)
     "rookieOrVets": "Vets", // (optional)
-    "philosophy": "Steven Anderson lives on the back of previous successes and understands that history always repeats itself.",
+    "philosophy": "Lives on the back of previous successes and understands that one day history will repeat itself.",
     "tradingScale": "5", // 1 - 10
     "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', 'Carrier Pigeon'
   },
@@ -101,7 +101,7 @@ export const managers = [
     "rival": {
       name: "Ray",
       link: 14,
-      image: "/managers/question.png",
+      image: "/managers/resizecom_Ray.png",
     },
     "favoritePlayer": null,
     "valuePosition": "",
@@ -123,7 +123,7 @@ export const managers = [
     "rival": {
       name: "Steven",
       link: 0,
-      image: "/managers/question.png",
+      image: "/managers/Steven.png",
     },
     "favoritePlayer": null,
     "valuePosition": "",
@@ -343,7 +343,7 @@ export const managers = [
     "rival": {
       name: "Gary",
       link: 3,
-      image: "/managers/question.png",
+      image: "/managers/Gary S.png",
     },
     "favoritePlayer": null,
     "valuePosition": "",
